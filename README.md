@@ -8,4 +8,4 @@ Alli Dryer, Jayne Vidheecharoen, David Bellona
 Combined the first high hi mocks with lo fi interactions
 
 
-![PizzaTimeTemp gif](/PizzaTimeTemp.gif "PizzaTimeTemp prototype")
+![PizzaTimeTemp gif](/pizzaTimeTemp.gif "PizzaTimeTemp prototype")
